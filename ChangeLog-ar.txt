@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'40', 'ver3':'\n• Updated to 2.21.4.22\n>• Fix previous problems\n• Other fixes and improvements\n•تحديث قاعد واتساب إلى 2.21.4.22\n•إصلاح المشاكل السابفة\n•إصلاحات وتحسينات أخرى\n', 'dli':'https://asem123456x.blogspot.com/', 'exp840':''}
+{'ver1':'8', 'ver2':'40', 'ver3':'\n• Updated to 2.21.4.22\n>• Fix previous problems\n• Other fixes and improvements\n•تحديث قاعد واتساب إلى 2.21.4.22\n•إصلاح المشاكل السابفة\n•إصلاحات وتحسينات أخرى\n', 'dli':'https://asem123456x.blogspot.com/',}
